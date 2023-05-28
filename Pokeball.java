@@ -1,4 +1,4 @@
-package pramidexam;
+package pokemain;
 
 public class Pokeball{
 	private String PokBal;
