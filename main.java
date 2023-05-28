@@ -1,4 +1,4 @@
-package pramidexam;
+package pokemain;
 
 import java.util.ArrayList;
 import java.util.Random;
