@@ -1,4 +1,4 @@
-package pramidexam;
+package pokemain;
 
 public class Pokemon {
 	private String naPok;
