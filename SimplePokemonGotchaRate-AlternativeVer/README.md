@@ -1,0 +1,1 @@
+Alternative version of SimplePokemonGotchaRate. This is the first version before the repository changed to the current one. Previously there were only three files, and now they are uploaded again as a folder (alternative version).
