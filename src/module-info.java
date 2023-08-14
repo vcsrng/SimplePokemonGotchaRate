@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vcsrng
+ *
+ */
+module SimplePokemonGotchaRate {
+}
